@@ -1,203 +1,256 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mari%20Eswar&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,24&height=300&section=header&text=MARI%20ESWAR&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=AI%20Operations%20%7C%20Sales%20Leadership%20%7C%20Business%20Automation&descSize=20&descAlignY=55" width="100%"/>
 
-### 🚀 AI-Driven Operations Expert | Full-Stack Developer | Data Analytics Specialist
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=4%2B+Years+Driving+AI-Powered+Business+Transformation;Award-Winning+Sales+Leader+%7C+60%2B+Team+Members;Scaled+Operations+to+300%2B+Partners+Across+India;Built+AI+Systems+Saving+80%25+Implementation+Time" alt="Typing Animation" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marieswar873/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marieswar873@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919500365660)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marieswar873-sys)
+<p>
+  <a href="https://linkedin.com/in/marieswar873" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:marieswar873@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000" alt="Email"/>
+  </a>
+  <a href="https://wa.me/919500365660" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000" alt="WhatsApp"/>
+  </a>
+  <a href="https://github.com/marieswar873-sys" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000" alt="GitHub"/>
+  </a>
+</p>
 
-📍 **Bengaluru, Karnataka, India** | 💼 **CTC:** ₹8.7L → ₹13L (Expected) | 📅 **Notice:** 60 days
+<table>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/📍_Location-Bengaluru,_India-FF6B6B?style=for-the-badge&labelColor=1a1a1a"/></td>
+<td align="center"><img src="https://img.shields.io/badge/💼_CTC-₹8.7L_→_₹13L-4CAF50?style=for-the-badge&labelColor=1a1a1a"/></td>
+<td align="center"><img src="https://img.shields.io/badge/📅_Notice-60_Days-FFA726?style=for-the-badge&labelColor=1a1a1a"/></td>
+</tr>
+</table>
 
-![Profile Views](https://komarev.com/ghpvc/?username=marieswar873-sys&style=for-the-badge&color=blueviolet)
-
-</div>
-
----
-
-## 👋 About Me
-
-> **Senior Operations Manager** with **4+ years of experience** driving AI-powered automation, business growth, and operational excellence at **Lokal**. I specialize in building scalable solutions, leading cross-functional teams, and transforming operations through cutting-edge technology and AI.
-
-### 💡 What I Do
-
-🎯 Lead **AI-driven automation initiatives** and operational excellence programs  
-💻 Build intelligent systems using **AI/ML** to solve complex business challenges  
-🔧 Develop **full-stack applications** and automate workflows  
-📊 **Data-driven decision maker** with proven measurable impact  
-🌱 Actively exploring opportunities in **AI Operations** and **Data Analytics**
-
-### ⚡ My Tech Philosophy
-
-✨ I leverage **AI tools and automation extensively** in my daily work to maximize productivity  
-🤖 Use AI as a **force multiplier** for solving operational challenges  
-🚀 Passionate about building **AI-powered solutions** that drive real business value  
-📚 Continuous learner, always exploring new AI tools and technologies
-
----
-
-## 💼 Professional Experience
-
-### 🏢 **Lokal** | Senior Operations Manager
-**Sep 2025 - Present** | Bengaluru
-
-**Leading AI-Powered Automation & Business Growth Initiatives**
-
-**Key Achievements:**
-- ⚡ **Record Implementation**: Deployed Exotel IVR-Freshdesk AI integration in **3 days** (vs industry standard 2-3 weeks) — **80%+ time reduction**
-- 📊 Designed & deployed **AI-powered dashboards** for real-time customer call monitoring and team performance tracking
-- 🎫 Built **automated grievance tracking** integrated with customer ticketing systems
-- 🔄 Implemented **unified AI-driven ticket tracking** across Astro, Eaze, and Gyan TV verticals
-- 💰 Enabled **significant cost reduction** and improved cross-functional team efficiency
-
-### 📈 Previous Roles
-
-**Operations Manager** @ Lokal (Sep 2024 - Sep 2025)
-- Onboarded business partners and automated sales reporting
-- Implemented automation for client follow-ups and onboarding workflows
-
-**Franchise Partner Manager** @ Tumbledry (Aug 2023 - Sep 2024)
-- Onboarded and trained **52+ franchise partners** across the region
-- Designed comprehensive training programs and market expansion strategies
-
-**Jio Point Manager** @ Jio (Aug 2022 - Aug 2023)
-- Managed operations for **250+ retail partners**
-- Led market expansion and distribution optimization
-
-**Sales Team Lead** @ Airtel (Mar 2021 - Aug 2022)
-- Managed 60 freelancers and 150 retailers
-- 🏆 **Awarded: Best Team Leader of the Year**
-
----
-
-## 🛠️ Technical Skills
-
-<div align="center">
-
-### **Languages & Development**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Data & Analytics**
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-### **AI & Automation**
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### **Cloud & Platforms**
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-### **CRM & Business Tools**
-![Freshdesk](https://img.shields.io/badge/Freshdesk-00C9A7?style=for-the-badge&logo=freshworks&logoColor=white)
-![Exotel](https://img.shields.io/badge/Exotel-FF6B35?style=for-the-badge)
-![WATI](https://img.shields.io/badge/WATI-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=marieswar873-sys&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> ABOUT ME
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+**Name:** Mari Eswar  
+**Role:** Senior Operations Manager  
+**Company:** Lokal  
+**Location:** Bengaluru, India  
+**Experience:** 4+ Years  
+
+**Focus Areas**:  
+AI-Powered Automation  
+Sales Leadership & Team Building  
+Business Growth & Scaling  
+Data Analytics & Insights  
+Operational Excellence  
+
+**Specialization:**  
+💡 AI/ML Solutions Development  
+📊 Sales Strategy & Execution  
+🤖 Workflow Automation Expert  
+📈 Revenue Growth Driver  
+🎯 High-Performance Team Leader  
+
+**Philosophy:**  
+"Leveraging AI to transform operations,  
+Leading teams to exceed sales targets,  
+Building scalable solutions for growth"
+
 ---
 
-## 📊 GitHub Statistics
+### 🎯 **Core Expertise**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 AI & AUTOMATION**
+- Built AI-powered dashboards
+- Automated grievance tracking systems
+- Reduced implementation time by 80%
+- Real-time performance monitoring
+- Multi-channel integration systems
+
+</td>
+<td width="50%" valign="top">
+
+**📈 SALES & LEADERSHIP**
+- Led 60+ sales professionals
+- Scaled to 300+ active partners
+- Award: Best Team Leader (Airtel)
+- Managed retail operations
+- Market expansion across regions
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💼 PROFESSIONAL JOURNEY
+
+<details open>
+<summary><b>🏢 LOKAL - Senior Operations Manager (Sep 2025 - Present)</b></summary>
+<br/>
+
+**🚀 Leading AI-Powered Automation & Business Growth**
+
+- ⚡ Deployed Exotel IVR-Freshdesk integration in **3 DAYS** (vs 2-3 weeks standard)
+- 📊 Designed AI-powered real-time dashboards for call & team monitoring  
+- 🎫 Built automated grievance tracking across multiple verticals
+- 🔄 Implemented unified AI-driven ticketing (Astro, Eaze, Gyan TV)
+- 💰 Achieved 80%+ reduction in implementation time
+- 📈 Led cross-functional teams for operational excellence
+- 🎯 Drove cost reduction through strategic automation
+- 💼 Managed business partnerships and client onboarding
+
+</details>
+
+<details>
+<summary><b>🏢 LOKAL - Operations Manager (Sep 2024 - Sep 2025)</b></summary>
+<br/>
+
+- ✅ Onboarded new business partners with seamless activation
+- ✅ Implemented automation for sales reporting & client follow-ups
+- ✅ Supported cross-team collaboration and KPI delivery
+
+</details>
+
+<details>
+<summary><b>🏢 TUMBLEDRY - Franchise Partner Manager (Aug 2023 - Sep 2024)</b></summary>
+<br/>
+
+**📊 SALES & FRANCHISE BUSINESS DEVELOPMENT**
+
+**Sales Achievements:**
+- 📈 Scaled franchise network from **0 → 52+ active partners**
+- 💼 Led high-performing sales team across region
+- 🎯 Executed market expansion strategies
+- 📊 Implemented targeted sales campaigns
+- 🌍 Opened new territories & markets
+- ✅ Achieved growth targets consistently
+
+**Leadership Impact:**
+- 👥 Designed comprehensive training programs
+- 📈 Mentored sales team for performance excellence
+- 📊 Analyzed sales data for campaign optimization
+- 🤝 Built strong partner relationships
+- 🎯 Drove accountability & success metrics
+
+</details>
+
+<details>
+<summary><b>🏢 JIO - Jio Point Manager (Aug 2022 - Aug 2023)</b></summary>
+<br/>
+
+**🛒 RETAIL OPERATIONS & SALES NETWORK**
+
+- 🏪 Managed operations for **250+ retail partners**
+- 📈 Led sales, distribution & market expansion
+- 🎯 Onboarded retailers with training & support
+- 📊 Coordinated two distribution channels
+- 💡 Drove network performance & revenue growth
+
+</details>
+
+<details>
+<summary><b>🏢 AIRTEL - Sales Team Lead (Mar 2021 - Aug 2022)</b></summary>
+<br/>
+
+**🏆 AWARD-WINNING SALES LEADERSHIP**
+
+**Team Management:**
+- 👥 Led **60 freelancers + 150 retailers**
+- 📈 Coordinated sales campaigns
+- 🎯 Executed market-growth initiatives
+- 📚 Conducted training & performance reviews
+- 💪 Drove team engagement across territory
+
+**Recognition:**
+- 🏆 **BEST TEAM LEADER OF THE YEAR**
+- ✅ Exceeded sales targets consistently
+- 👑 Outstanding team management
+- 🎯 Exceptional performance delivery
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠️ TECH STACK & SKILLS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=marieswar873-sys&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marieswar873-sys&layout=compact&theme=radical&hide_border=true" height="170" />
+### **🤖 AI & Automation Arsenal**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=marieswar873-sys&theme=radical&hide_border=true" width="500" />
+<p>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/AI_Tools-00D9FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000"/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marieswar873-sys&theme=github-dark&hide_border=true&area=true" width="100%" />
+### **📊 Data Analytics & Business Intelligence**
+
+<p>
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=000000"/>
+</p>
+
+### **💻 Development & Cloud Technologies**
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=000000"/>
+</p>
+
+### **📞 CRM & Business Platforms**
+
+<p>
+<img src="https://img.shields.io/badge/Freshdesk-00C9A7?style=for-the-badge&logo=freshworks&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Exotel-FF6B35?style=for-the-badge&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/WATI-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&labelColor=000000"/>
+</p>
+
+### **🎯 Core Competencies Matrix**
+
+| AI & Technology        | Sales & Leadership        | Operations & Strategy        |
+|:---------------------:|:-----------------------:|:---------------------------:|
+| AI-Powered Automation | Team Management (60+)   | Process Optimization        |
+| System Integration    | Sales Campaign Design   | Business Scaling            |
+| Real-time Dashboards  | Performance Coaching    | Partner Management (300+)   |
+| Workflow Automation   | Market Expansion        | KPI Delivery                |
+| Data Analytics        | Revenue Growth          | Cost Reduction              |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 Certifications & Recognition
-
-🥇 **Best Team Leader of the Year** - Airtel (2022)  
-🎖️ **Customer Support Leadership Recognition** - Lokal (Nov 2025)  
-🎓 **Introduction to Python and Machine Learning** - House Of Edtech (Nov 2025)  
-📊 **Data Analytics Using AI** - House Of Edtech (Sep 2025)  
-📈 **Advanced Excel Certification** - Professional Development
-
----
-
-## 🎓 Education
-
-**Bachelor of Engineering in Computer Science**  
-Unnamalai Institute of Technology, Kovilpatti | 2021
-
-**Relevant Coursework:** Computer Science Fundamentals, Python ML, Advanced Excel, Data Analytics Using AI, Operations Management, Sales Strategy
-
----
-
-## 💡 Currently Focused On
-
-🤖 Building & scaling AI-driven operational solutions at Lokal  
-📚 Deepening expertise in Machine Learning and AI applications  
-🔍 Actively seeking opportunities in **AI Operations** and **Data Analytics**  
-🌐 Contributing to open-source projects  
-✨ **Leveraging AI tools daily** to maximize productivity and efficiency
-
----
-
-## 📫 Let's Connect!
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-### 🤝 I'm open to discussing:
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=marieswar873-sys&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=marieswar873-sys&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 
-💼 **AI/ML and Data Analytics opportunities**  
-🚀 **Collaboration on innovative AI projects**  
-💡 **Ideas around automation and operational excellence**  
-🌟 **How AI can transform business operations**
-
-### 📬 Reach Out:
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marieswar873/)
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marieswar873@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/Message_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919500365660)
-
----
-
-**📧 Email:** marieswar873@gmail.com  
-**💬 WhatsApp:** +91 9500365660  
-**📍 Location:** Bengaluru, Karnataka, India  
-**💼 Current CTC:** ₹8.7 LPA | **Expected CTC:** ₹13 LPA  
-**📅 Notice Period:** 60 days (negotiable)
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Fun Facts
-
-🎯 I use **AI tools extensively** in my daily workflow to automate tasks and boost productivity  
-🤖 Passionate about exploring new AI applications for business automation  
-📈 Love turning data into actionable insights that drive decisions  
-🚀 Always learning and experimenting with cutting-edge technologies  
-💪 Believe in the transformative power of AI and automation
-
----
-
-**"Building the future of AI-driven operations, one automation at a time."**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marieswar873-sys&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marieswar873-sys&theme=radical&utcOffset=5.5" />
 
 </div>
